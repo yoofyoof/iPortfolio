@@ -1,12 +1,12 @@
 # Yufei's Portfolio Info
 **Author**: Yufei Zhu
-project name: Yufei's Portflio
-project objective: Created a professional personal website to give a comprehensive view of Yufei.
-**View this page**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
+<br>project name: Yufei's Portflio
+<br>project objective: Created a professional personal website to give a comprehensive view of Yufei.
+<br>**View this page**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
 
 Technical Requirement: Used Bootstrap and JavaScript
-Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
-Instruction to build: clone code from repository, change specific values in the index.html page to create your own portfolio.
+<br>Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
+<br>Instruction to build: clone code from repository, change specific values in the index.html page to create your own portfolio.
 
 # Project Demo
 **Demo Part 1:** Home Section and social media links.
