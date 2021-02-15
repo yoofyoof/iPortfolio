@@ -5,12 +5,12 @@
 <br>**Deployed Website**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
 
 **Technical Requirement**: 
-Required:
--Bootstrap v4.0 
--JavaScript
-Optional:
--Formatting tool: Prettier v2.2.1
--Local Server: Browser Sync V. 2.26.14
+Required:<br>
+-Bootstrap v4.0<br>
+-JavaScript<br>
+Optional:<br>
+-Formatting tool: Prettier v2.2.1<br>
+-Local Server: Browser Sync V. 2.26.14<br>
 
 <br>Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 **Instruction to build**: 
