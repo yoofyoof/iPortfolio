@@ -2,11 +2,21 @@
 **Author**: Yufei Zhu
 <br>project name: Yufei's Portflio
 <br>project objective: Created a professional personal website to give a comprehensive view of Yufei.
-<br>**View this page**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
+<br>**Deployed Website**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
 
-Technical Requirement: Used Bootstrap and JavaScript
+**Technical Requirement**: 
+Required:
+-Bootstrap v4.0 
+-JavaScript
+Optional:
+-Formatting tool: Prettier v2.2.1
+-Local Server: Browser Sync V. 2.26.14
+
 <br>Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
-<br>Instruction to build: clone code from repository, change specific values in the index.html page to create your own portfolio.
+**Instruction to build**: 
+-clone code from repository to your local terminal
+-Enter your local directory of the code in the CLI of your terminal
+-Start a local sever in CLI (e.g.: Browser Sync)change specific values in the index.html page to create your own portfolio.
 
 # Project Demo
 **Demo Part 1:** Home Section and social media links.
