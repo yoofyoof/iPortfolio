@@ -14,6 +14,7 @@ Optional:<br>
 -Local Server: Browser Sync V. 2.26.14<br>
 
 Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/<br>
+
 **Instruction to build**: <br>
 -clone code from repository to your local terminal<br>
 -Enter your local directory of the code in the CLI of your terminal<br>
