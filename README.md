@@ -1,4 +1,4 @@
-# Yufei's Portfolio Info
+# Yufei's Portfolio
 **Author**: Yufei Zhu
 <br>project name: Yufei's Portflio
 <br>project objective: Created a professional personal website to give a comprehensive view of Yufei.
