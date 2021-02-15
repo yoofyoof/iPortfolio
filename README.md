@@ -1,9 +1,14 @@
 # iPortfolio Info
-project name: iPortflio
-project objective: Created a professional personal website for Yufei Zhu, giving a comprehensive presentation of Yufei.
+Author: Yufei Zhu
+<br>project name: Yufei's Portflio
+<br>project objective: Created a professional personal website to give a comprehensive view of Yufei.
+<br>View this page: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
 
-#Website Demo: 
+Technical Requirement: Used Bootstrap and JavaScript
+<br>Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
+<br>Instruction to build: clone code from repository, change specific values in the index.html page to create your own portfolio.
 
+# Project Demo
 Demo Part 1: Home Section and my social web page links.
 ![](Home.gif)
 
