@@ -18,7 +18,8 @@ Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/<br>
 **Instruction to build**: <br>
 -clone code from repository to your local terminal<br>
 -Enter your local directory of the code in the CLI of your terminal<br>
--Start a local sever in CLI (e.g.: Browser Sync)change specific values in the index.html page to create your own portfolio.<br>
+-Start a local sever in CLI (e.g.: Browser Sync)<br>
+-change specific values in the index.html page to create your own portfolio.<br>
 
 # Project Demo
 **Demo Part 1:** Home Section and social media links.
