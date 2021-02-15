@@ -1,13 +1,14 @@
-# iPortfolio
-#project name: iPortflio
-#project objective: Created a professional personal website for Yufei Zhu, giving a comprehensive presentation of Yufei.
-# Website Demo: 
+# iPortfolio Info
+project name: iPortflio
+project objective: Created a professional personal website for Yufei Zhu, giving a comprehensive presentation of Yufei.
+
+#Website Demo: 
 
 Demo Part 1: Home Section and my social web page links.
 ![](Home.gif)
 
 Demo Part 2: About me and Resume Section.
-![](AboutMe:Resume.gif)
+![](AboutMeResume.gif)
 
 Demo Part 3: My past project Section.
 ![](Projects.gif)
