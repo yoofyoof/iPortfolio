@@ -2,7 +2,9 @@
 **Author**: Yufei Zhu
 <br>project name: Yufei's Portflio
 <br>project objective: Created a professional personal website to give a comprehensive view of Yufei.
-<br>**Deployed Website**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html
+<br>**Deployed Website**: https://yoofyoof.github.io/iPortfolio/iPortfolio/index.html<br>
+**Google Slide Link**: https://docs.google.com/presentation/d/1qpO8P9JZ3YZPNAoGIy7doRzNZWuhkHnRPO-OTqpqv6w/edit?usp=sharing<br>
+**Youtube Demo Link**: https://www.youtube.com/watch?v=QC-7HtklU1o&feature=youtu.be&ab_channel=YufeiZhu <br> 
 
 **Technical Requirement**: 
 Required:<br>
